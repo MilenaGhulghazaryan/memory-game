@@ -1,0 +1,24 @@
+body{
+    margin:60px;
+    margin-top: 80px;
+    margin-right:100px;
+    margin-left:250px;
+    /*outline:1px solid black;*/
+    background-color:rgb(160, 206, 214);
+}
+button{
+  width:200px;
+  height:50px;
+  border:1px solid black;
+  background-color:rgb(233, 122, 228);
+  margin-left: 270px;
+}
+
+
+
+
+
+
+
+ 
+
